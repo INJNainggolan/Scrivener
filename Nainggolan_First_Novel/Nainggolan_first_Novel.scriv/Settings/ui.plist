@@ -544,7 +544,7 @@
 	<key>mainWindowFrame</key>
 	<string>56 94 1327 773 0 0 1440 878 </string>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentViewIsCurrent</key>

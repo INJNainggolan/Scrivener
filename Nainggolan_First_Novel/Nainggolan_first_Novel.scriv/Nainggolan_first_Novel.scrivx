@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="F8DC9413-539B-4878-A005-4DD69515AABF" Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Author="许玥" Modified="2018-01-02 20:42:29 +0800" ModID="2EE094F8-CBB0-49B5-97A3-F5415ABF41B1">
+<ScrivenerProject Identifier="F8DC9413-539B-4878-A005-4DD69515AABF" Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Author="许玥" Modified="2018-03-07 21:02:46 +0800" ModID="2E5398C8-777B-4FCC-A2AF-5E8F9143C2F4">
     <Binder>
         <BinderItem UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Type="DraftFolder" Created="2006-11-05 00:27:29 +0800" Modified="2017-04-23 17:54:31 +0800">
             <Title>原稿</Title>
@@ -34,7 +34,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="51F5676C-855B-4FDB-981F-C799F133B870" Type="Text" Created="2017-04-20 13:36:50 +0800" Modified="2018-01-02 20:42:28 +0800">
+                        <BinderItem UUID="51F5676C-855B-4FDB-981F-C799F133B870" Type="Text" Created="2017-04-20 13:36:50 +0800" Modified="2018-03-07 21:02:46 +0800">
                             <Title>楔子</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -586,11 +586,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 20:24:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="25" Characters="36" Date="2018-01-02 20:34:02 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="1" Date="2018-03-07 21:02:04 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-01-02 00:00:00 +0800">
-        <DraftWordCount>17</DraftWordCount>
-        <DraftCharCount>23</DraftCharCount>
+    <RecentWritingHistory Date="2018-03-07 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
