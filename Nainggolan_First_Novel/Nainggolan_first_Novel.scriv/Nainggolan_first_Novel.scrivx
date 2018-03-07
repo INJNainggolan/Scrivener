@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="F8DC9413-539B-4878-A005-4DD69515AABF" Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Author="许玥" Modified="2018-01-02 20:42:29 +0800" ModID="2EE094F8-CBB0-49B5-97A3-F5415ABF41B1">
+    <Binder>
+        <BinderItem UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Type="DraftFolder" Created="2006-11-05 00:27:29 +0800" Modified="2017-04-23 17:54:31 +0800">
+            <Title>原稿</Title>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs></SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Freeform</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.156667,0.908555" TimeStamp="2017-12-26 15:45:29 +0800">F3BF71C4-EE75-4EAC-AFFA-670A714917E9</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.166667,0.1" TimeStamp="2017-10-12 21:50:32 +0800">2525B4B6-16FD-404F-940F-4FE90B15CE57</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="1.190716,0.101979" TimeStamp="2017-12-26 15:45:26 +0800">EE73522C-0918-4F11-B259-C7B7B83EC26E</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="2.216667,0.126667" TimeStamp="2017-10-12 21:50:32 +0800">9E980376-C6E3-48C2-9312-D7F0BE6F4AB2</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="2525B4B6-16FD-404F-940F-4FE90B15CE57" Type="Text" Created="2017-04-20 13:38:51 +0800" Modified="2017-12-26 15:43:24 +0800">
+                    <Title>大纲素材</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>396,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EE73522C-0918-4F11-B259-C7B7B83EC26E" Type="Folder" Created="2017-04-20 13:36:32 +0800" Modified="2017-04-20 13:36:38 +0800">
+                    <Title>楔子</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="51F5676C-855B-4FDB-981F-C799F133B870" Type="Text" Created="2017-04-20 13:36:50 +0800" Modified="2018-01-02 20:42:28 +0800">
+                            <Title>楔子</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>266,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="9E980376-C6E3-48C2-9312-D7F0BE6F4AB2" Type="Folder" Created="2006-11-05 00:31:13 +0800" Modified="2017-04-23 19:48:50 +0800">
+                    <Title>Chapter 1</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs></SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Freeform</Arrangement>
+                            <FreeformCorkboardDocuments>
+                                <IndexCardBinderUUID Position="0.123333,0.04" TimeStamp="2017-10-28 21:34:52 +0800">291A5EB7-DA53-44DB-92CD-35229AA003DB</IndexCardBinderUUID>
+                                <IndexCardBinderUUID Position="2.156667,0.053333" TimeStamp="2017-10-28 21:34:52 +0800">1136C130-D63A-4FF0-889D-39329B38F3B1</IndexCardBinderUUID>
+                                <IndexCardBinderUUID Position="1.2,0.07" TimeStamp="2017-10-28 21:34:52 +0800">936F2750-B3ED-46F3-A2B6-2EEB68843B38</IndexCardBinderUUID>
+                            </FreeformCorkboardDocuments>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Type="Text" Created="2006-11-05 00:33:03 +0800" Modified="2017-05-01 20:15:34 +0800">
+                            <Title>1</Title>
+                            <TextSettings>
+                                <TextSelection>117,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem UUID="936F2750-B3ED-46F3-A2B6-2EEB68843B38" Type="Text" Created="2017-04-20 12:30:19 +0800" Modified="2017-04-23 18:16:56 +0800">
+                            <Title>2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>40,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1136C130-D63A-4FF0-889D-39329B38F3B1" Type="Text" Created="2017-04-20 12:30:34 +0800" Modified="2017-04-23 18:18:57 +0800">
+                            <Title>3</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>96,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="F3BF71C4-EE75-4EAC-AFFA-670A714917E9" Type="Folder" Created="2017-04-23 17:50:18 +0800" Modified="2017-04-23 17:50:21 +0800">
+                    <Title>Chapter 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="399C0CCC-17AD-4B67-A427-02A039B2EC48" Type="Folder" Created="2010-10-19 20:06:35 +0800" Modified="2017-04-20 12:15:49 +0800">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs></SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Freeform</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.136667,0.133333" TimeStamp="2017-12-26 15:46:23 +0800">E2C28681-9AF9-47E4-9458-9EB4F379EECE</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="1.09,0.126667" TimeStamp="2017-12-26 15:46:23 +0800">68601FF9-E400-47BE-B112-98311639C59C</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="2.13,0.036667" TimeStamp="2017-12-26 15:46:23 +0800">FD95E482-4EDA-418A-A39D-C2799A94A583</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="E2C28681-9AF9-47E4-9458-9EB4F379EECE" Type="Text" Created="2017-04-20 12:15:05 +0800" Modified="2017-04-20 12:16:58 +0800">
+                    <Title>珵懿</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>40,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="68601FF9-E400-47BE-B112-98311639C59C" Type="Text" Created="2017-04-20 12:18:01 +0800" Modified="2017-04-23 17:52:35 +0800">
+                    <Title>女孩子</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>20,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FD95E482-4EDA-418A-A39D-C2799A94A583" Type="Text" Created="2017-04-20 12:25:59 +0800" Modified="2017-04-23 17:52:47 +0800">
+                    <Title>反面派</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>28,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="FFE23E67-34F2-4887-B83B-0EB393BF3CA5" Type="Folder" Created="2010-10-19 20:06:37 +0800" Modified="2017-04-23 17:55:33 +0800">
+            <Title>地点</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs></SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Freeform</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.166667,0.08" TimeStamp="2017-10-12 21:50:29 +0800">E34F42CC-BCD8-45A6-9597-872E83B173F7</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="E34F42CC-BCD8-45A6-9597-872E83B173F7" Type="Text" Created="2017-04-20 12:20:07 +0800" Modified="2017-04-23 17:52:11 +0800">
+                    <Title>选择几个城市  熟悉的</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>36,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="AC80BE2D-A6AE-4FC8-9E92-60573A7AAECC" Type="Folder" Created="2011-07-21 00:15:20 +0800" Modified="2011-07-21 00:15:23 +0800">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs></SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Freeform</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.04,0.056667" TimeStamp="2017-12-26 15:46:31 +0800">B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="1.14,0.07" TimeStamp="2017-12-26 15:46:31 +0800">00B4FA64-D705-4810-B3FB-C566AF858F74</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.17,0.1" TimeStamp="2017-12-26 15:46:31 +0800">E34F42CC-BCD8-45A6-9597-872E83B173F7</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="2.11,0.05" TimeStamp="2017-12-26 15:46:31 +0800">00D78C34-591C-4B77-8149-CB18AC21A56C</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="B89C2FAA-06BD-433B-BA8B-6BADC30E64FB" Type="Folder" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:32 +0800">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <Arrangement>Freeform</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="DAD0D623-098A-472A-B274-84638F5EF5B1" Type="Text" Created="2015-09-24 08:17:01 +0800" Modified="2015-09-24 08:17:01 +0800">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <SectionType>A55FC693-5AB6-48E9-99CB-3ED8FA350B04</SectionType>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="00B4FA64-D705-4810-B3FB-C566AF858F74" Type="Folder" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:32 +0800">
+                    <Title>Paperback Novel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <Arrangement>Freeform</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="34EA4225-16B4-4E0F-AE80-F3AFE73EC465" Type="Text" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:32 +0800">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <SectionType>A55FC693-5AB6-48E9-99CB-3ED8FA350B04</SectionType>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem UUID="0D541BA4-BCC5-4D30-9166-9837A8B7FD5B" Type="Text" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:32 +0800">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <SectionType>A55FC693-5AB6-48E9-99CB-3ED8FA350B04</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem UUID="E2571F9B-549F-4787-9C23-911289FA706E" Type="Text" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:33 +0800">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <SectionType>A55FC693-5AB6-48E9-99CB-3ED8FA350B04</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="00D78C34-591C-4B77-8149-CB18AC21A56C" Type="Folder" Created="2014-06-12 13:52:32 +0800" Modified="2014-06-12 13:52:33 +0800">
+                    <Title>E-Book</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <Arrangement>Freeform</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="767D41CE-6E50-4521-ABBA-98962F8712B0" Type="Image" Created="2014-06-12 13:52:33 +0800" Modified="2014-06-12 13:52:33 +0800">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem UUID="63DA3161-5F56-4083-A486-0040F0E4EA67" Type="Text" Created="2014-06-12 13:52:33 +0800" Modified="2014-06-12 13:52:33 +0800">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <SectionType>A55FC693-5AB6-48E9-99CB-3ED8FA350B04</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="4E440BDC-B30D-4B89-8CC6-915C71244EA6" Type="ResearchFolder" Created="2006-11-05 00:27:29 +0800" Modified="2006-11-05 00:27:29 +0800">
+            <Title>Research</Title>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs></SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Freeform</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.096667,0.053333" TimeStamp="2017-12-26 15:46:31 +0800">B89C2FAA-06BD-433B-BA8B-6BADC30E64FB</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.106667,0.1" TimeStamp="2017-12-26 15:46:31 +0800">475F1951-26E8-43D7-8BD1-F558DEC3F168</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="1.113333,0.116667" TimeStamp="2017-12-26 15:46:31 +0800">00B4FA64-D705-4810-B3FB-C566AF858F74</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="2.236667,0.063333" TimeStamp="2017-12-26 15:46:31 +0800">00D78C34-591C-4B77-8149-CB18AC21A56C</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="475F1951-26E8-43D7-8BD1-F558DEC3F168" Type="Folder" Created="2011-07-21 00:40:07 +0800" Modified="2011-07-21 00:40:11 +0800">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <Arrangement>Freeform</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="B7062B18-2083-4146-9AEB-8A5286BD3DAB" Type="PDF" Created="2014-04-25 17:49:45 +0800" Modified="2014-04-25 17:49:46 +0800">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem UUID="6A6ADBEA-A468-47E7-8A64-ECD1C441D647" Type="PDF" Created="2014-05-11 03:46:54 +0800" Modified="2014-05-11 03:46:54 +0800">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem UUID="A8ED99F6-E116-411A-B5CD-B124F7508B6C" Type="Image" Created="2014-05-02 16:46:35 +0800" Modified="2014-05-02 16:50:26 +0800">
+                            <Title>ADE E-Book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <Arrangement>Freeform</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="0F62E5C2-41F2-41F7-B09A-AF381C34B686" Type="Folder" Created="2010-10-19 20:57:18 +0800" Modified="2014-06-13 06:17:27 +0800">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs></SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Freeform</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.053333,0.09" TimeStamp="2017-12-26 15:46:32 +0800">C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="1.14,0.083333" TimeStamp="2017-12-26 15:46:32 +0800">23A06CD3-648A-45E0-AD6E-19BCBC457E00</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.076667,0.04" TimeStamp="2017-12-26 15:46:32 +0800">475F1951-26E8-43D7-8BD1-F558DEC3F168</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A" Type="Text" Created="2014-06-12 13:52:57 +0800" Modified="2014-06-12 13:52:57 +0800">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <Arrangement>Freeform</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem UUID="23A06CD3-648A-45E0-AD6E-19BCBC457E00" Type="Text" Created="2014-06-12 13:52:57 +0800" Modified="2014-06-12 13:52:57 +0800">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <Arrangement>Freeform</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="A097E066-25A9-43C7-9FBE-58A2AED4603E" Type="TrashFolder" Created="2006-11-05 00:27:29 +0800" Modified="2006-11-05 00:27:29 +0800">
+            <Title>Trash</Title>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>AA771256-448D-4F08-8A0C-B476DC1B2DB3</SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Freeform</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.06,0.14" TimeStamp="2017-12-26 15:46:32 +0800">C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="1.146667,0.05" TimeStamp="2017-12-26 15:46:32 +0800">23A06CD3-648A-45E0-AD6E-19BCBC457E00</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.07,0.106667" TimeStamp="2017-12-26 15:46:36 +0800">AA771256-448D-4F08-8A0C-B476DC1B2DB3</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="AA771256-448D-4F08-8A0C-B476DC1B2DB3" Type="Text" Created="2017-10-28 21:34:45 +0800" Modified="2017-10-28 21:34:45 +0800">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.924849 0.924014 0.949681">
+            <Title>活页夹</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922176 0.818589 0.999618">
+            <Title>搜索结果</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">?</SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="D2E24F2F-E4A2-49D0-BACA-26098774C8F9">Part Heading</Type>
+            <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">Chapter Heading</Type>
+            <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">Scene</Type>
+            <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">Chapter</Type>
+            <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">Heading</Type>
+            <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">Section</Type>
+            <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">Front Matter</Type>
+            <Type ID="EA9C9DBA-B644-4EBB-BDAD-621E5455275A">N/A</Type>
+            <Type ID="A55FC693-5AB6-48E9-99CB-3ED8FA350B04">不适用</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>EA9C9DBA-B644-4EBB-BDAD-621E5455275A</Type>
+                <Type>417A6CCE-D4E1-44BA-9A8D-038360B4B905</Type>
+            </Folders>
+            <Containers>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+            </Containers>
+            <Files>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.952941 0.917647 0.329412">Idea</Label>
+            <Label ID="5" Color="0.894118 0.529412 0.219608">Notes</Label>
+            <Label ID="6" Color="0.913725 0.098039 0.184314">Character Notes</Label>
+            <Label ID="2" Color="0.282353 0.701961 0.0">Chapter</Label>
+            <Label ID="4" Color="0.27451 0.556863 1.0">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 20:24:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="25" Characters="36" Date="2018-01-02 20:34:02 +0800"></PreviousSession>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2018-01-02 00:00:00 +0800">
+        <DraftWordCount>17</DraftWordCount>
+        <DraftCharCount>23</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="72.000099" BottomMargin="72.000099" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

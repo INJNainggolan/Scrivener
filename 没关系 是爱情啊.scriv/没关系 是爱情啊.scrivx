@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Nainggolan" Modified="2017-08-11 22:30:10 +0800" ModID="8FC2754D-CFA9-4C8C-816B-CAB305CEE91A">
+    <Binder>
+        <BinderItem ID="0" UUID="4CC37908-60D0-4E18-A70B-9BDF0E6EACF7" Created="2017-06-19 19:02:52 +0800" Modified="2017-08-11 22:30:08 +0800" Type="DraftFolder">
+            <Title>2017.06.19~2017.08.11</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="71D92518-3DE8-47DB-8A87-8C906D00340F" Created="2017-06-19 19:02:52 +0800" Modified="2017-08-11 22:27:40 +0800" Type="Text">
+                    <Title>没关系 是爱情啊·soulmate·affinity--独立人格的亲密关系</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>572,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="79FA01AF-8BF3-4236-B2D0-3EF7E2765795" Created="2017-06-19 19:04:16 +0800" Modified="2017-08-11 22:29:55 +0800" Type="Text">
+                    <Title>资料</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="FD1D3033-C44D-4797-B6EC-710A4E4B953F" Created="2017-06-19 19:02:52 +0800" Modified="2017-06-19 19:02:52 +0800" Type="ResearchFolder">
+            <Title>调查</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="434C7E23-2DE6-4EFF-9DA3-18259F5D7F45" Created="2017-06-19 19:02:52 +0800" Modified="2017-06-19 19:02:52 +0800" Type="TrashFolder">
+            <Title>垃圾桶</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>标签</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">无标题</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">概念</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">章节</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>状态</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">无状态</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">待办事项</Status>
+            <Status ID="2">初稿</Status>
+            <Status ID="3">修订稿</Status>
+            <Status ID="4">最终稿</Status>
+            <Status ID="5">完成</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-08-11 22:29:46 +0800"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="8E709C43-AC68-4DC7-A226-19575D191CF4" Color="0.901961 0.917647 0.933333">
+            <Title>活页夹</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2C0F9998-B39A-40E8-9626-0AA17501320F" Color="0.901961 0.901961 0.980392">
+            <Title>搜索结果</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="A4" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

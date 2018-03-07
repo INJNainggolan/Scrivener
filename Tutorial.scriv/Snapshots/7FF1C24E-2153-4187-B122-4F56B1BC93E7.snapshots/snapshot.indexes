@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="7FF1C24E-2153-4187-B122-4F56B1BC93E7">
+    <Snapshot Date="2012-04-12 18:49:16 +0800">
+        <Title>Untitled (Save)</Title>
+        <Text>One of the key philosophies behind Scrivener is that it shouldn’t try to force you into a particular workflow. You should be able to write any sort of long-form text in Scrivener and set up your project to fit the task at hand. Likewise, if you’re using Scrivener to write a novel, Scrivener doesn’t automatically assume that you must therefore want character sheets to fill in for each character, or prompt sheets for information about locations and so on (I apologise for the fiction-biased examples). Every writer is different - some novelists find filling in character sheets an essential part of their process, others hate such things. So, just as Scrivener allows you to create top-level folders and customise their icons, it also gives you the means to set up document templates for generating things such as character sheets. Document templates allow you to set up a document in the project and use it as the basis for creating new documents.
+
+(Note: Document templates should not be confused with project templates. A project template is something you pick from the New Project panel, which is used as the basis for creating an entire project - see Step 22 - whereas a document template is a file inside a project.)
+
+This probably sounds more complicated than it is in practice. Let’s create a couple of document templates to see what I mean.
+
+First, go to the Project menu and select “New From Template”. Note how there is just a dummy menu item in there saying “No templates folder set for this project”. Then, try clicking and holding down the green “Add” button in the toolbar - hold it down until a menu appears (but don’t choose anything - we’re not going to add anything, we just want to take a look). You’ll see there are three items in there: “New Text”, “New Folder” and “Import Web Page” (which will be disabled if a document contained in the Draft folder is selected in the binder, because you can’t import web pages into the Draft folder, which is text-only). We’re going to add a couple of different types of document to these menus.
+
+Next, take a look inside the Research folder in the binder (expand it if necessary by clicking on the disclosure triangle next to it). Inside it you will find a “Sheets” folder, which contains two documents - “Character Sheet” and “Location Sheet”. Take a look at these documents. They contain text that could be used for very basic character or location sheets, which you might fill in for each character or location you are going to write about in a novel. They are just regular text documents, though - you can have whatever you want in there. To see what I mean, select the “Location” document and then click on “Add” in the toolbar so that a new blank document gets created. Name it to anything you want, and then type something inside the document.
+
+Now we’re going to tell Scrivener that the documents inside the “Sheets” folder should be treated as document templates - that is, that we want to be able to create new documents based on them:
+
+1) Click on the “Sheets” folder to select it.
+2) Go to the Project menu and choose “Set Selection as Templates Folder”.
+
+The icon of the “Sheets” folder will change to be a white “T” against a blueprint, and the “T” will appear in the corner of each document inside it. This indicates that the folder is now acting as the templates folder and that anything inside it can be used as the basis for a new document.
+
+What does this mean? Let’s try returning to the menus we looked at a little earlier:
+
+1) Click on the “Characters” folder with the custom icon that you created in step 20. It should currently be empty.
+2) Go to the Project menu and select “New From Template” again. You’ll notice that it’s no longer empty - it shows the contents of the “Sheets” templates folder.
+3) From the menu, select “Character Sheet”. A new document will be created inside the “Characters” folder - a document that is identical to the “Character Sheet” document in the templates folder. Change the title and edit the text in the document itself.
+4) Now click on the green “Add” button and hold it down for a second again. This time there will be more items in the menu that appears - the contents of our templates folder is there, too. This time choose “Location Sheet”.
+
+The two new documents you just created are copies of the documents in the templates folder. And that’s really all the templates folder is - somewhere for you to put documents that you want to use as the basis for other documents, and which, in combination with the New From Template menu, makes it very easy to create copies of those documents anywhere you want in the project.
+
+We’re nearly there. On to Step 22…</Text>
+    </Snapshot>
+</SnapshotIndexes>

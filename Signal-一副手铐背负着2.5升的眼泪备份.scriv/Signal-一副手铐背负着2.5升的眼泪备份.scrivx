@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26326" Device="xuyuedeMacBook-Pro" Modified="2017-10-12 21:45:20 +0800" ModID="270E1360-CF80-47D3-906A-A5C926F4A74D">
+    <Binder>
+        <BinderItem ID="0" UUID="B5D0D05D-F22E-4BE7-9D98-5E4D9D67672D" Type="DraftFolder" Created="2017-05-21 08:25:55 +0800" Modified="2017-05-21 08:26:05 +0800">
+            <Title>2017-05-18 ~2017-05-20 完稿</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="0A35741E-B91A-4113-8247-47BEDF5D6624" Type="Text" Created="2017-05-21 08:25:55 +0800" Modified="2017-05-21 08:26:25 +0800">
+                    <Title>Signal-一副手铐背负着2.5升的眼泪 </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2805,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="11556BDD-FB4F-4D24-9ED5-B68896488880" Type="ResearchFolder" Created="2017-05-21 08:25:55 +0800" Modified="2017-05-21 08:25:55 +0800">
+            <Title>调查</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="296FFD08-92E8-4C5E-A9A7-DEA251D7C7C3" Type="TrashFolder" Created="2017-05-21 08:25:55 +0800" Modified="2017-05-21 08:25:55 +0800">
+            <Title>垃圾桶</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="E4E90156-1E17-4BA5-A56D-E313FBB75599" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="BE83FCC6-48A5-45B1-B997-AC3F62837709" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">?</SearchSettings>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>标签</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">无标题</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.0">概念</Label>
+            <Label ID="1" Color="1.0 0.752941 0.752941">章节</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>状态</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">无状态</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">待办事项</Status>
+            <Status ID="2">初稿</Status>
+            <Status ID="3">修订稿</Status>
+            <Status ID="4">最终稿</Status>
+            <Status ID="5">完成</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2017-10-12 21:30:04 +0800" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-10-12 21:30:04 +0800"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="0.0" RightMargin="0.0" TopMargin="0.0" BottomMargin="0.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
