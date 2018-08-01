@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Nainggolan" Modified="2017-05-29 19:41:02 +0800" ModID="61675935-8238-456B-B8D5-E95F8B0F5C8F">
+<ScrivenerProject Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Modified="2018-06-30 15:27:35 +0800" ModID="61675935-8238-456B-B8D5-E95F8B0F5C8F">
     <Binder>
-        <BinderItem ID="0" UUID="B42C3B40-8458-48A9-9292-3DC22B9C7E74" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-29 19:23:48 +0800" Type="DraftFolder">
+        <BinderItem UUID="B42C3B40-8458-48A9-9292-3DC22B9C7E74" Type="DraftFolder" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-29 19:23:48 +0800">
             <Title>2017-05-28~2017-05-29 完稿</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" UUID="9E4EFB85-A1C5-477F-956E-0DFC464BDADD" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-29 19:26:00 +0800" Type="Text">
+                <BinderItem UUID="9E4EFB85-A1C5-477F-956E-0DFC464BDADD" Type="Text" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-29 19:26:00 +0800">
                     <Title>秘密·有一种爱叫做放手</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>108,0</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" UUID="0030C074-20B7-4DA1-AD59-5D1FD2768D32" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-25 16:39:16 +0800" Type="ResearchFolder">
+        <BinderItem UUID="0030C074-20B7-4DA1-AD59-5D1FD2768D32" Type="ResearchFolder" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-25 16:39:16 +0800">
             <Title>调查</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="2" UUID="5733F744-44CD-4AD1-82C1-5809D2E34C96" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-25 16:39:16 +0800" Type="TrashFolder">
+        <BinderItem UUID="5733F744-44CD-4AD1-82C1-5809D2E34C96" Type="TrashFolder" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-25 16:39:16 +0800">
             <Title>垃圾桶</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -57,7 +56,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="20" Date="2017-05-29 18:50:48 +0800"/>
+        <PreviousSession Words="0" Characters="20" Date="2017-05-29 18:50:48 +0800"></PreviousSession>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="4E31F535-468C-4A70-B3A9-FFD3B393545D" Color="0.901961 0.917647 0.933333">
@@ -65,8 +64,26 @@
         </Collection>
         <Collection Type="RecentSearch" ID="C1CB6635-E90B-44EA-B4BF-11612CFFA363" Color="0.901961 0.901961 0.980392">
             <Title>搜索结果</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">?</SearchSettings>
         </Collection>
     </Collections>
-    <PrintSettings PaperType="A4" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+    <PrintSettings PaperType="A4" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"></PrintSettings>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="AE567014-A30F-47B2-8661-543A392C978C">标题</Type>
+            <Type ID="4294B491-6CCF-456D-837B-440D3FA5DAEA">副标题</Type>
+            <Type ID="052536A9-DB2A-4A32-91FD-CA9666E98BAF">稿件</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>AE567014-A30F-47B2-8661-543A392C978C</Type>
+            </Folders>
+            <Containers>
+                <Type>052536A9-DB2A-4A32-91FD-CA9666E98BAF</Type>
+            </Containers>
+            <Files>
+                <Type>052536A9-DB2A-4A32-91FD-CA9666E98BAF</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
 </ScrivenerProject>

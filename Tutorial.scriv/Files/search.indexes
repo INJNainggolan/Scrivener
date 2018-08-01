@@ -311,9 +311,35 @@ Quick Start Note: If you’re viewing the “Quick Start” collection in the bi
 
 You see the document on the left beneath this one, the one entitled “Step 2: Header View”? Click on it now. (Or, if you are going through the “Quick Start” collection only, click on “Step 5: The Inspector”.)</Text>
         </Document>
-        <Document ID="09779882-91C8-4386-80C9-F9FCB5A3467A">
-            <Title>Part 3: Import, Export and Printing</Title>
-            <Synopsis>In Part 3, we cover how to import and export documents in Scrivener.</Synopsis>
+        <Document ID="6E1F9D21-8211-4830-A961-36DC5C400FD5">
+            <Title>Other Stuff You Might Want to Know</Title>
+            <Text>SAVING
+A very important aspect of a program such as Scrivener is how it saves documents. Scrivener auto-saves so that you don’t have to worry about saving at all if you don’t want to. That said, if you’re anything like me, “not worrying” about saving is an impossibility, so here is how things work: every time you make a change to a document, the red “close” button in the top-left corner of the window (which will be grey if you are using the Graphite theme) will become “dirtied” (i.e. a dot will appear inside it) to indicate that there are unsaved changes, just as in many Mac programs. At this point, Scrivener knows that it needs to save as soon as possible. It does so as soon as there is no activity for two seconds or more (although you can change the amount of time it waits in the “General” pane of the Preferences)—that way, saving a large document will not interrupt what you are doing. It also checks whether it needs to save when a project is closed and when you quit the application, and saves if so. Once things are saved, the red button returns to normal.
+Although the auto-save feature keeps your work safe 99.99999% of the time, and while I hope you never experience any crashes, every program has the occasional bug lurking around, so for the sake of your—and my—own sanity, there is a “force save” feature. This just works the same way as a normal save in a regular app. Hit Cmd-S or go to File &gt; Save to force any changes you have made to be saved without having to wait the two seconds for an auto-save. Note that because of the auto-save feature, if you close a project while the red button is dirtied, you will not be asked whether you want to save your changes, as many programs do, because the changes will be saved automatically.
+
+WRITING MULTIPLE BOOKS IN THE SAME PROJECT
+Generally, Scrivener is set up based on the assumption that each Scrivener project will contain a single book (or writing project). When you compile, you compile the entire Draft folder into a single manuscript. In the section on Compile, though, we briefly looked at how you can choose to compile only a subfolder of the Draft. If you really want to write more than one book in the same project - perhaps you have a series of books that rely on the same research, for instance - you can easily do so by taking advantage of this feature. Here’s how:
+	1.	Set up a different folder for each book inside the Draft folder.
+	2.	Organise each book folder as though it were the Draft folder for that book.
+	3.	In the “Contents” pane of Compile, choose the folder containing the book you wish to compile from the pop-up button above the list of documents.
+	4.	From the “Compile Group Options…” pop-up button that appears, tick “Treat compile group as entire draft” (to ensure that any chapter numbering restarts with each book) and deselect “Include selected container in list”.
+
+LAYOUTS
+If you find yourself opening and closing the binder and inspector frequently, or spending a lot of time setting up the corkboard or outliner view to appear in the right place for a particular task, check out the Layouts feature, which can be accessed by selecting “Manage Layouts…” from the Window &gt; Layouts menu. This allows you to save the state of the interface and quickly return to it at a later time.
+
+SCRATCH PAD AND CLIPPING SERVICES
+If you have to gather a lot of research in other applications and find yourself doing a lot of copying and pasting into Scrivener, the Scratch Pad and clippings features may be useful. The scratch pad is a panel that can be called up from any other application using a keyboard shortcut that you set in the “General” pane of the Preferences. You can then paste or type any notes into it and send them to one of your open projects straight away or at some point later (scratch pad notes are saved in a folder on your hard drive that you can specify in the preferences). Scrivener also makes some clipping features available via the global OS X Services menu (note that on Snow Leopard you will need to turn them on in the System Preferences, in the “Keyboard Shortcuts” tab of the “Keyboard” pane).
+
+BACKING UP YOUR WORK
+Back Up To... (available from the File &gt; Back Up menu) is your friend... Use it frequently to save copies of your project (you can save copies as archived .zip files, too) to ensure that your work is always backed up. You can also set up your projects to be backed up automatically whenever they are opened or closed, using the “Backup” pane of the Preferences.
+
+FILE FORMAT
+Just a quick note on the file format, by the way: .scriv files are actually OS X packages (which is to say, folders that just happen to look like files). This means that you can ctrl-click on them in the Finder and select “Show Package Contents”. If you do this, you will (reassuringly, I hope) discover that all of your work is actually stored as multiple RTF and XML files inside various subfolders. This means that even in the worst possible crash case, if a .scriv file became hopelessly corrupted (although I hope this will never happen), you would still be able to open and edit all of your work in another program (such as TextEdit). That said, you should not edit the RTF files inside a .scriv package in any other program if you intend to keep using them inside Scrivener, as this may cause problems with Scrivener’s footnotes, comments, links and search features. Use the Export Files feature if you want to get your files out of Scrivener.
+
+WORKING WITH CLOUD SERVICES
+Many users these days work across multiple machines and use a cloud service such as Dropbox to sync their files between computers. This is entirely possible with Scrivener files, but because of Scrivener’s file format structure, there are some gotchas that you need to bear in mind when working with Scrivener projects stored on Dropbox or other cloud services. We have an article in our Knowledge Base containing everything you need to know on this subject here:
+
+http://scrivener.tenderapp.com/help/kb/cloud-syncing/using-scrivener-with-cloud-sync-services</Text>
         </Document>
         <Document ID="E4700140-F7BB-4C30-B7F9-770124F3BFDC">
             <Title>Step 5: The Inspector</Title>
@@ -333,6 +359,35 @@ Right, let’s look at the inspector. At the top of the inspector, in the header
 The padlock button on the far right allows you to “lock” the inspector to a particular editor when the editor is split - we won’t worry about that for now, though, as we haven’t looked at splitting the editor yet. The other buttons allow you to choose what to view in the inspector (the number of buttons that appear will depend on what you are viewing in the current editor). The last two buttons, “Snapshots” and “Comments” (the one with the camera and the one with the square speech bubble) are only available for text documents, for instance. An asterisk next to one of the icons tells you that there is content in that part of the inspector.
 
 To begin with, make sure the leftmost button, “Notes”, is selected, and then click on the next document in the binder, “5a: The Synopsis Index Card”.</Text>
+        </Document>
+        <Document ID="B0EFA720-A699-4BCC-BC5F-4209F8F4DFCF">
+            <Title>Step 15: Importing</Title>
+            <Text>If you decide Scrivener is the program for you, the first thing you are going to want to do is import your existing work. This is simple. Just go to File &gt; Import &gt; Files…, select the files you wish to import, and click the “Import” button. All files and folders that are supported by Scrivener will be imported, including subdirectories, maintaining the file structure from the Finder in the binder. (Note that if you have selected a document that is contained inside the “Draft” folder in the binder, when you go to File &gt; Import &gt; Files… you will only have the option of importing text file types; this is because files are imported at the location of the selection in the binder and the “Draft” folder only supports text files. Thus, if you wish to import media files, make sure that the selection is not in the “Draft” folder.) You can also drag files directly from the Finder into Scrivener’s binder.
+
+The following file types are supported by Scrivener’s import feature:
+
+	▪	RTFD
+	▪	RTF
+	▪	DOC
+	▪	DOCX (Leopard and above only)
+	▪	ODT (Leopard and above only)
+	▪	TXT / plain text
+	▪	PDF
+	▪	Final Draft FDX
+	▪	Final Draft FCF
+	▪	HTML
+	▪	HTM
+	▪	WEBARCHIVE
+	▪	Most image files
+	▪	Any file supported by Quicktime (video and audio)
+
+(Note that the one main file format we are unable to support is the Apple Pages format. This is because Apple does not make the .pages format publicly available, and so it is not possible for developers or companies outside of Apple to read and write files in the .pages format. To import Pages files, you should therefore use the File &gt; Export To feature of Pages to create copies of your documents in one of Scrivener’s supported formats - most likely Word format.)
+
+You can also import web archives directly from the internet by selecting Import &gt; Web Page… From the File menu.
+
+You can actually import any file at all - it doesn’t have to be one of the supported formats listed above. If you import an unsupported file type, it will appear in the editor as an icon. Double-clicking on the icon will open the file in the program associated with it on your machine.
+
+On to Step 16...</Text>
         </Document>
         <Document ID="AD26B5F1-28A2-41E8-9D74-8598C7490EE5">
             <Title>Step 7: Changing Editor Views</Title>
@@ -386,34 +441,33 @@ You can also switch between view modes using the top three items in the View men
 
 I know, I know - now you really do need that cup of tea, and probably another biscuit too. Once you’re done, we’ll take a look at some of these view modes in more detail.</Text>
         </Document>
-        <Document ID="B0EFA720-A699-4BCC-BC5F-4209F8F4DFCF">
-            <Title>Step 15: Importing</Title>
-            <Text>If you decide Scrivener is the program for you, the first thing you are going to want to do is import your existing work. This is simple. Just go to File &gt; Import &gt; Files…, select the files you wish to import, and click the “Import” button. All files and folders that are supported by Scrivener will be imported, including subdirectories, maintaining the file structure from the Finder in the binder. (Note that if you have selected a document that is contained inside the “Draft” folder in the binder, when you go to File &gt; Import &gt; Files… you will only have the option of importing text file types; this is because files are imported at the location of the selection in the binder and the “Draft” folder only supports text files. Thus, if you wish to import media files, make sure that the selection is not in the “Draft” folder.) You can also drag files directly from the Finder into Scrivener’s binder.
+        <Document ID="4293DFCA-DA2F-4ED7-AB14-9F13FE257B84">
+            <Title>Part 6: Syncing</Title>
+        </Document>
+        <Document ID="84E4279A-36CE-4005-A01D-BD9B21345E08">
+            <Title>Sheets</Title>
+        </Document>
+        <Document ID="F948D95F-7FB3-45D7-B228-241078D4ECB4">
+            <Title>Step 20: Custom Icons</Title>
+            <Synopsis>Note on: Step 1: Beginnings</Synopsis>
+            <Text>As you have learned, by default any new Scrivener project will have three root folders - the Draft, Research and Trash folders. These folders cannot be deleted or moved into other folders (although they can be moved into a different order). You’re not limited to having only these three main folders, though - you can create as many as you need. Let’s try that now:
 
-The following file types are supported by Scrivener’s import feature:
+1) Lock the editor again so that this document stays on screen (by clicking on the icon in the header view and selecting “Lock in Place” from the menu that appears).
+2) Click on the Research folder.
+3) Click on the “Add folder” button in the footer bar right at the bottom of the binder (or hit Opt-Cmd-N).
+4) Note that a new folder is created inside the “Research” folder. Rename the new folder “Characters”.
+5) From the Documents menu, choose Move &gt; Left. Your new folder is now a root folder - that is, it is now as far left as it can go, on the same level as the Draft, Research and Trash folders.
 
-	▪	RTFD
-	▪	RTF
-	▪	DOC
-	▪	DOCX (Leopard and above only)
-	▪	ODT (Leopard and above only)
-	▪	TXT / plain text
-	▪	PDF
-	▪	Final Draft FDX
-	▪	Final Draft FCF
-	▪	HTML
-	▪	HTM
-	▪	WEBARCHIVE
-	▪	Most image files
-	▪	Any file supported by Quicktime (video and audio)
+So, we’ve created a new root-level folder, but at the moment it looks fairly generic. This is where Scrivener’s custom icons feature comes in - you can assign a custom icon to any file or folder in the binder so that its purpose is more immediately recognisable. In our example, we are going to use our new folder to store notes about different characters in a novel, so we want to assign an icon to it that will allow us to find it easily and quickly. Here’s how:
 
-(Note that the one main file format we are unable to support is the Apple Pages format. This is because Apple does not make the .pages format publicly available, and so it is not possible for developers or companies outside of Apple to read and write files in the .pages format. To import Pages files, you should therefore use the File &gt; Export To feature of Pages to create copies of your documents in one of Scrivener’s supported formats - most likely Word format.)
+1) Ctrl-click on the “Characters” folder.
+2) Select “Change Icon” from the contextual menu that appears. Choose the “Characters” or “Characters (Photo)” icon (although you could just as easily choose any icon).
 
-You can also import web archives directly from the internet by selecting Import &gt; Web Page… From the File menu.
+A number of icons are provided with Scrivener for use in your projects, but you can also create your own (or download some) and import them by choosing “Manage Icons…” from the Documents &gt; Change Icon menu.
 
-You can actually import any file at all - it doesn’t have to be one of the supported formats listed above. If you import an unsupported file type, it will appear in the editor as an icon. Double-clicking on the icon will open the file in the program associated with it on your machine.
+In this way you can customise your projects to contain whatever main folders you need (note that you can assign custom icons to individual documents, too, but the feature is more likely to be useful for customising folder icons). If you create a Scrivener project from one of the templates that are provided (such as the novel template), you will find folders in the binder that have been created and customised in just this way.
 
-On to Step 16...</Text>
+Unlock the editor and move on to Step 21.</Text>
         </Document>
         <Document ID="B5DABBF3-86C9-4DE8-82D7-78FFB2E614AD">
             <Title>5a: The Synopsis Index Card</Title>
@@ -619,6 +673,41 @@ Okay, onto the next section…
 Quick Start Note: If you are taking the “Quick Start” route, you can now click on the “Quick Start” tab above the binder again, or simply move on to “Step 23: And Finally…”.)
 </Text>
         </Document>
+        <Document ID="28ACFB7D-F306-4C33-ADD5-446DB74DEC88">
+            <Title>Step 23: Syncing with iOS</Title>
+            <Text>(You can skip this section if you don’t plan on syncing projects with Scrivener for iOS.)
+
+Scrivener is also available for the iPad and iPhone (via the iOS App Store), so that you can work on your projects anywhere. Follow the instructions below to sync your Mac projects with our iOS version. Note that you will need a Dropbox account (http://www.getdropbox.com) to sync. If you don’t have or want a Dropbox account, you can copy projects via iTunes (see below).
+
+SYNCING WITH DROPBOX
+	1.	Any projects you want to share with the iOS version must be placed in your Dropbox folder. When you set up sync in Scrivener for iOS, you are asked to choose a subfolder inside Dropbox, and the iOS version will sync anything inside the folder you choose. The default setting is /Dropbox/Apps/Scrivener, so we’ll use that as our example. We’ll assume the folder already exists in Dropbox (it will do if you’ve set up sync in the iOS version - follow the instructions in the iOS tutorial for details on that if necessary).
+	2.	To sync an existing project, first make sure it is closed on your Mac, then move it into the /Dropbox/Apps/Scrivener folder in the Finder. You can then open it again on your Mac from its new location in Dropbox if you wish.
+	3.	To create a new project that you want available on iOS, go to File &gt; New Project, select a project template, and choose to save it inside the /Dropbox/Apps/Scrivener folder when prompted for a save location.
+	4.	Before opening a project on iOS, ensure that Dropbox on your Mac has fully synced (check that there is no activity indicator in the Dropbox icon in the menu bar).
+	5.	Whenever you have made any changes to projects on your Mac, be sure to tap the sync button in Scrivener for iOS so that all changes get downloaded.
+	6.	Edit your project on your iPhone or iPad and tap the sync button in the iOS version when you’re done.
+	7.	When returning to your Mac, once more ensure that Dropbox has finished syncing by checking the icon in the menu bar.
+	8.	You can now carry on working on your project. You are free to leave your Scrivener projects open on the Mac while editing them on iOS. When Scrivener on the Mac detects that changes have been made in the iOS version, it will tell you that it needs to incorporate those changes into the project. It will then do so, closing and reopening the project. (If the project was closed, it will do all of this when you next open the project.)
+	9.	Scrivener on the Mac detects changes whenever it becomes active. If you know you’ve made changes on iOS and Scrivener for Mac doesn’t tell you about them, simply choose Sync &gt; with Mobile Devices from the File menu. This will force Scrivener to check for any changes.
+	⁃	Note that “Sync &gt; with Mobile Devices” just looks for changes that have been made to the current project on iOS devices. No changes will be found if the project has not been edited on iOS, or if it is not stored in the Dropbox folder.
+
+Dealing with Conflicts
+When syncing across devices, it’s important to remember that each device stores its own copy of the project (if it didn’t, you wouldn’t be able to access projects without an internet connection). When you sync, Scrivener updates the copy on your Mac and the copy on your iOS device so that they are both the same. If you make edits to the same document on more than one device without syncing, however, conflicts may arise because the two copies will be different.
+For instance, suppose you edit a scene on your iPad, then return to your Mac without syncing and start editing the same scene - in this case, there will now be two different versions of it, one on your iPad, and one on your Mac. When this occurs, on the next sync, Scrivener will tell you that conflicts have been found. Scrivener will always do its best to resolve all conflicts without requiring you to do anything, but in a case like this, it will create a “Conflicts” folder at the bottom of the binder and place one of the versions of the document inside it as a separate document.
+If this happens, be sure to compare the two versions of the document and decide which one you want to keep. You can open Scrivener’s split screen feature to look at them side-by-side and copy between them, and then delete the one you do not need. This won’t normally be a problem, however - it will only happen if you make changes to the same project on two devices without syncing before moving between devices.
+
+COPYING BETWEEN DEVICES USING ITUNES
+If you have the iOS version but don’t want to use Dropbox, you can copy projects to and from your iPhone or iPad using iTunes as follows:
+	1.	With your device plugged in, open iTunes.
+	2.	Select your device.
+	3.	Select “Apps” in the sidebar.
+	4.	Scroll down to “File Sharing”.
+	5.	Select Scrivener in the “Apps” list.
+	6.	Drag Scrivener projects from the Finder into the “Documents” list in iTunes to copy projects to your device (or click on the “Add…” button).
+	7.	Select a project in the “Documents” list and click on “Save to…” to copy a project from your device to your Mac’s hard drive.
+
+Okay, on to Step 24, the “And Finally…” bit.</Text>
+        </Document>
         <Document ID="AE0049A2-DEA9-49EE-9BED-5F59A44A3FBE">
             <Title>Step 8: Splits</Title>
             <Synopsis>Here’s another synopsis.</Synopsis>
@@ -665,6 +754,10 @@ For many projects you may not need to touch custom meta-data at all, but if you 
 
 Next on to one of Scrivener’s most useful features for editing documents: “Snapshots”.</Text>
         </Document>
+        <Document ID="22DE5730-378C-4152-9584-7097061CEA51">
+            <Title>Part 4: Text Tools</Title>
+            <Synopsis>Part 4... Well, Part 4 covers the other stuff.</Synopsis>
+        </Document>
         <Document ID="7B8FAA61-C661-406E-B270-BD89029520B4">
             <Title>Step 10: Outliner</Title>
             <Text>The binder is a very useful organisational tool, but one of the key concepts behind Scrivener is the linking of synopses to documents – and the binder does not show synopses. The corkboard, as we have seen, is a good way of viewing and editing the synopses of multiple documents, but not everyone likes corkboards and besides, the corkboard only shows one level of a group’s subdocuments at a time. This is where the outliner comes in: it provides a way of structuring multiple levels of your project at the same time as seeing much of the data associated with your documents.
@@ -697,102 +790,9 @@ We can get rid of the split now. To do so, click on the button in the right of t
 
 Once you’ve done that, go to Step 11.</Text>
         </Document>
-        <Document ID="F948D95F-7FB3-45D7-B228-241078D4ECB4">
-            <Title>Step 20: Custom Icons</Title>
-            <Synopsis>Note on: Step 1: Beginnings</Synopsis>
-            <Text>As you have learned, by default any new Scrivener project will have three root folders - the Draft, Research and Trash folders. These folders cannot be deleted or moved into other folders (although they can be moved into a different order). You’re not limited to having only these three main folders, though - you can create as many as you need. Let’s try that now:
-
-1) Lock the editor again so that this document stays on screen (by clicking on the icon in the header view and selecting “Lock in Place” from the menu that appears).
-2) Click on the Research folder.
-3) Click on the “Add folder” button in the footer bar right at the bottom of the binder (or hit Opt-Cmd-N).
-4) Note that a new folder is created inside the “Research” folder. Rename the new folder “Characters”.
-5) From the Documents menu, choose Move &gt; Left. Your new folder is now a root folder - that is, it is now as far left as it can go, on the same level as the Draft, Research and Trash folders.
-
-So, we’ve created a new root-level folder, but at the moment it looks fairly generic. This is where Scrivener’s custom icons feature comes in - you can assign a custom icon to any file or folder in the binder so that its purpose is more immediately recognisable. In our example, we are going to use our new folder to store notes about different characters in a novel, so we want to assign an icon to it that will allow us to find it easily and quickly. Here’s how:
-
-1) Ctrl-click on the “Characters” folder.
-2) Select “Change Icon” from the contextual menu that appears. Choose the “Characters” or “Characters (Photo)” icon (although you could just as easily choose any icon).
-
-A number of icons are provided with Scrivener for use in your projects, but you can also create your own (or download some) and import them by choosing “Manage Icons…” from the Documents &gt; Change Icon menu.
-
-In this way you can customise your projects to contain whatever main folders you need (note that you can assign custom icons to individual documents, too, but the feature is more likely to be useful for customising folder icons). If you create a Scrivener project from one of the templates that are provided (such as the novel template), you will find folders in the binder that have been created and customised in just this way.
-
-Unlock the editor and move on to Step 21.</Text>
-        </Document>
-        <Document ID="4293DFCA-DA2F-4ED7-AB14-9F13FE257B84">
-            <Title>Part 6: Syncing</Title>
-        </Document>
-        <Document ID="28ACFB7D-F306-4C33-ADD5-446DB74DEC88">
-            <Title>Step 23: Syncing with iOS</Title>
-            <Text>(You can skip this section if you don’t plan on syncing projects with Scrivener for iOS.)
-
-Scrivener is also available for the iPad and iPhone (via the iOS App Store), so that you can work on your projects anywhere. Follow the instructions below to sync your Mac projects with our iOS version. Note that you will need a Dropbox account (http://www.getdropbox.com) to sync. If you don’t have or want a Dropbox account, you can copy projects via iTunes (see below).
-
-SYNCING WITH DROPBOX
-	1.	Any projects you want to share with the iOS version must be placed in your Dropbox folder. When you set up sync in Scrivener for iOS, you are asked to choose a subfolder inside Dropbox, and the iOS version will sync anything inside the folder you choose. The default setting is /Dropbox/Apps/Scrivener, so we’ll use that as our example. We’ll assume the folder already exists in Dropbox (it will do if you’ve set up sync in the iOS version - follow the instructions in the iOS tutorial for details on that if necessary).
-	2.	To sync an existing project, first make sure it is closed on your Mac, then move it into the /Dropbox/Apps/Scrivener folder in the Finder. You can then open it again on your Mac from its new location in Dropbox if you wish.
-	3.	To create a new project that you want available on iOS, go to File &gt; New Project, select a project template, and choose to save it inside the /Dropbox/Apps/Scrivener folder when prompted for a save location.
-	4.	Before opening a project on iOS, ensure that Dropbox on your Mac has fully synced (check that there is no activity indicator in the Dropbox icon in the menu bar).
-	5.	Whenever you have made any changes to projects on your Mac, be sure to tap the sync button in Scrivener for iOS so that all changes get downloaded.
-	6.	Edit your project on your iPhone or iPad and tap the sync button in the iOS version when you’re done.
-	7.	When returning to your Mac, once more ensure that Dropbox has finished syncing by checking the icon in the menu bar.
-	8.	You can now carry on working on your project. You are free to leave your Scrivener projects open on the Mac while editing them on iOS. When Scrivener on the Mac detects that changes have been made in the iOS version, it will tell you that it needs to incorporate those changes into the project. It will then do so, closing and reopening the project. (If the project was closed, it will do all of this when you next open the project.)
-	9.	Scrivener on the Mac detects changes whenever it becomes active. If you know you’ve made changes on iOS and Scrivener for Mac doesn’t tell you about them, simply choose Sync &gt; with Mobile Devices from the File menu. This will force Scrivener to check for any changes.
-	⁃	Note that “Sync &gt; with Mobile Devices” just looks for changes that have been made to the current project on iOS devices. No changes will be found if the project has not been edited on iOS, or if it is not stored in the Dropbox folder.
-
-Dealing with Conflicts
-When syncing across devices, it’s important to remember that each device stores its own copy of the project (if it didn’t, you wouldn’t be able to access projects without an internet connection). When you sync, Scrivener updates the copy on your Mac and the copy on your iOS device so that they are both the same. If you make edits to the same document on more than one device without syncing, however, conflicts may arise because the two copies will be different.
-For instance, suppose you edit a scene on your iPad, then return to your Mac without syncing and start editing the same scene - in this case, there will now be two different versions of it, one on your iPad, and one on your Mac. When this occurs, on the next sync, Scrivener will tell you that conflicts have been found. Scrivener will always do its best to resolve all conflicts without requiring you to do anything, but in a case like this, it will create a “Conflicts” folder at the bottom of the binder and place one of the versions of the document inside it as a separate document.
-If this happens, be sure to compare the two versions of the document and decide which one you want to keep. You can open Scrivener’s split screen feature to look at them side-by-side and copy between them, and then delete the one you do not need. This won’t normally be a problem, however - it will only happen if you make changes to the same project on two devices without syncing before moving between devices.
-
-COPYING BETWEEN DEVICES USING ITUNES
-If you have the iOS version but don’t want to use Dropbox, you can copy projects to and from your iPhone or iPad using iTunes as follows:
-	1.	With your device plugged in, open iTunes.
-	2.	Select your device.
-	3.	Select “Apps” in the sidebar.
-	4.	Scroll down to “File Sharing”.
-	5.	Select Scrivener in the “Apps” list.
-	6.	Drag Scrivener projects from the Finder into the “Documents” list in iTunes to copy projects to your device (or click on the “Add…” button).
-	7.	Select a project in the “Documents” list and click on “Save to…” to copy a project from your device to your Mac’s hard drive.
-
-Okay, on to Step 24, the “And Finally…” bit.</Text>
-        </Document>
-        <Document ID="22DE5730-378C-4152-9584-7097061CEA51">
-            <Title>Part 4: Text Tools</Title>
-            <Synopsis>Part 4... Well, Part 4 covers the other stuff.</Synopsis>
-        </Document>
-        <Document ID="6E1F9D21-8211-4830-A961-36DC5C400FD5">
-            <Title>Other Stuff You Might Want to Know</Title>
-            <Text>SAVING
-A very important aspect of a program such as Scrivener is how it saves documents. Scrivener auto-saves so that you don’t have to worry about saving at all if you don’t want to. That said, if you’re anything like me, “not worrying” about saving is an impossibility, so here is how things work: every time you make a change to a document, the red “close” button in the top-left corner of the window (which will be grey if you are using the Graphite theme) will become “dirtied” (i.e. a dot will appear inside it) to indicate that there are unsaved changes, just as in many Mac programs. At this point, Scrivener knows that it needs to save as soon as possible. It does so as soon as there is no activity for two seconds or more (although you can change the amount of time it waits in the “General” pane of the Preferences)—that way, saving a large document will not interrupt what you are doing. It also checks whether it needs to save when a project is closed and when you quit the application, and saves if so. Once things are saved, the red button returns to normal.
-Although the auto-save feature keeps your work safe 99.99999% of the time, and while I hope you never experience any crashes, every program has the occasional bug lurking around, so for the sake of your—and my—own sanity, there is a “force save” feature. This just works the same way as a normal save in a regular app. Hit Cmd-S or go to File &gt; Save to force any changes you have made to be saved without having to wait the two seconds for an auto-save. Note that because of the auto-save feature, if you close a project while the red button is dirtied, you will not be asked whether you want to save your changes, as many programs do, because the changes will be saved automatically.
-
-WRITING MULTIPLE BOOKS IN THE SAME PROJECT
-Generally, Scrivener is set up based on the assumption that each Scrivener project will contain a single book (or writing project). When you compile, you compile the entire Draft folder into a single manuscript. In the section on Compile, though, we briefly looked at how you can choose to compile only a subfolder of the Draft. If you really want to write more than one book in the same project - perhaps you have a series of books that rely on the same research, for instance - you can easily do so by taking advantage of this feature. Here’s how:
-	1.	Set up a different folder for each book inside the Draft folder.
-	2.	Organise each book folder as though it were the Draft folder for that book.
-	3.	In the “Contents” pane of Compile, choose the folder containing the book you wish to compile from the pop-up button above the list of documents.
-	4.	From the “Compile Group Options…” pop-up button that appears, tick “Treat compile group as entire draft” (to ensure that any chapter numbering restarts with each book) and deselect “Include selected container in list”.
-
-LAYOUTS
-If you find yourself opening and closing the binder and inspector frequently, or spending a lot of time setting up the corkboard or outliner view to appear in the right place for a particular task, check out the Layouts feature, which can be accessed by selecting “Manage Layouts…” from the Window &gt; Layouts menu. This allows you to save the state of the interface and quickly return to it at a later time.
-
-SCRATCH PAD AND CLIPPING SERVICES
-If you have to gather a lot of research in other applications and find yourself doing a lot of copying and pasting into Scrivener, the Scratch Pad and clippings features may be useful. The scratch pad is a panel that can be called up from any other application using a keyboard shortcut that you set in the “General” pane of the Preferences. You can then paste or type any notes into it and send them to one of your open projects straight away or at some point later (scratch pad notes are saved in a folder on your hard drive that you can specify in the preferences). Scrivener also makes some clipping features available via the global OS X Services menu (note that on Snow Leopard you will need to turn them on in the System Preferences, in the “Keyboard Shortcuts” tab of the “Keyboard” pane).
-
-BACKING UP YOUR WORK
-Back Up To... (available from the File &gt; Back Up menu) is your friend... Use it frequently to save copies of your project (you can save copies as archived .zip files, too) to ensure that your work is always backed up. You can also set up your projects to be backed up automatically whenever they are opened or closed, using the “Backup” pane of the Preferences.
-
-FILE FORMAT
-Just a quick note on the file format, by the way: .scriv files are actually OS X packages (which is to say, folders that just happen to look like files). This means that you can ctrl-click on them in the Finder and select “Show Package Contents”. If you do this, you will (reassuringly, I hope) discover that all of your work is actually stored as multiple RTF and XML files inside various subfolders. This means that even in the worst possible crash case, if a .scriv file became hopelessly corrupted (although I hope this will never happen), you would still be able to open and edit all of your work in another program (such as TextEdit). That said, you should not edit the RTF files inside a .scriv package in any other program if you intend to keep using them inside Scrivener, as this may cause problems with Scrivener’s footnotes, comments, links and search features. Use the Export Files feature if you want to get your files out of Scrivener.
-
-WORKING WITH CLOUD SERVICES
-Many users these days work across multiple machines and use a cloud service such as Dropbox to sync their files between computers. This is entirely possible with Scrivener files, but because of Scrivener’s file format structure, there are some gotchas that you need to bear in mind when working with Scrivener projects stored on Dropbox or other cloud services. We have an article in our Knowledge Base containing everything you need to know on this subject here:
-
-http://scrivener.tenderapp.com/help/kb/cloud-syncing/using-scrivener-with-cloud-sync-services</Text>
-        </Document>
-        <Document ID="84E4279A-36CE-4005-A01D-BD9B21345E08">
-            <Title>Sheets</Title>
+        <Document ID="09779882-91C8-4386-80C9-F9FCB5A3467A">
+            <Title>Part 3: Import, Export and Printing</Title>
+            <Synopsis>In Part 3, we cover how to import and export documents in Scrivener.</Synopsis>
         </Document>
         <Document ID="BA72C56C-9289-452F-BCB8-470B1360669A">
             <Title>Step 13: Project Search</Title>

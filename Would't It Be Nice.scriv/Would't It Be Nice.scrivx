@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Nainggolan" Modified="2017-05-13 10:08:29 +0800" ModID="E4A7AEC3-2D8F-47DF-B847-F2B751AE698D">
+<ScrivenerProject Identifier="3166D9AF-12B1-458F-B09C-58201E7C3055" Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Author="许玥" Modified="2018-06-30 15:28:53 +0800" ModID="55A2B523-273B-47ED-A478-83B30425E021">
     <Binder>
-        <BinderItem ID="0" UUID="8A819E37-7F92-4BE0-B72F-7038389C97B0" Created="2017-05-02 18:16:47 +0800" Modified="2017-05-13 10:08:27 +0800" Type="DraftFolder">
+        <BinderItem UUID="8A819E37-7F92-4BE0-B72F-7038389C97B0" Type="DraftFolder" Created="2017-05-02 18:16:47 +0800" Modified="2017-05-13 10:08:27 +0800">
             <Title>2017-05-02</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" UUID="9ACB74DD-7E57-4C2B-9846-39AB371AAE09" Created="2017-05-02 18:16:47 +0800" Modified="2017-05-13 10:07:52 +0800" Type="Text">
+                <BinderItem UUID="9ACB74DD-7E57-4C2B-9846-39AB371AAE09" Type="Text" Created="2017-05-02 18:16:47 +0800" Modified="2017-05-13 10:07:52 +0800">
                     <Title>Would't It Be Nice</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
@@ -16,31 +16,57 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>1916,0</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" UUID="0941C317-49D9-434E-AEE3-3DBAAC53207E" Created="2017-05-02 18:16:47 +0800" Modified="2017-05-02 18:16:47 +0800" Type="ResearchFolder">
+        <BinderItem UUID="0941C317-49D9-434E-AEE3-3DBAAC53207E" Type="ResearchFolder" Created="2017-05-02 18:16:47 +0800" Modified="2017-05-02 18:16:47 +0800">
             <Title>调查</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="2" UUID="18501CBB-1071-4C5C-9BAE-882A77093E7B" Created="2017-05-02 18:16:47 +0800" Modified="2017-05-02 18:16:47 +0800" Type="TrashFolder">
+        <BinderItem UUID="18501CBB-1071-4C5C-9BAE-882A77093E7B" Type="TrashFolder" Created="2017-05-02 18:16:47 +0800" Modified="2017-05-02 18:16:47 +0800">
             <Title>垃圾桶</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
     </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="FA6D4545-5315-4D47-ADB9-EB7EAAC4A0CC" Color="0.924849 0.924014 0.949681">
+            <Title>活页夹</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="427EE86D-1840-45AA-B2CC-90A3998DDD93" Color="0.922176 0.818589 0.999618">
+            <Title>搜索结果</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">?</SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="4ECF3079-3274-48C9-BC52-C054E4074AA8">标题</Type>
+            <Type ID="ADD5082E-8196-4583-9D4D-2C5E37A2644B">副标题</Type>
+            <Type ID="18CFDE78-BBDE-4B4C-A47C-709C68E74031">稿件</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>4ECF3079-3274-48C9-BC52-C054E4074AA8</Type>
+            </Folders>
+            <Containers>
+                <Type>18CFDE78-BBDE-4B4C-A47C-709C68E74031</Type>
+            </Containers>
+            <Files>
+                <Type>18CFDE78-BBDE-4B4C-A47C-709C68E74031</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
     <LabelSettings>
         <Title>标签</Title>
         <DefaultLabelID>-1</DefaultLabelID>
         <Labels>
             <Label ID="-1">无标题</Label>
-            <Label ID="0" Color="0.752941 0.752941 1.000000">概念</Label>
-            <Label ID="1" Color="1.000000 0.752941 0.752941">章节</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.0">概念</Label>
+            <Label ID="1" Color="1.0 0.752941 0.752941">章节</Label>
         </Labels>
     </LabelSettings>
     <StatusSettings>
@@ -56,19 +82,16 @@
             <Status ID="5">完成</Status>
         </StatusItems>
     </StatusSettings>
-    <ProjectTargets>
-        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="1" Date="2017-05-13 10:07:35 +0800"/>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2018-06-30 15:28:44 +0800" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2018-06-30 15:28:42 +0800"></PreviousSession>
     </ProjectTargets>
-    <Collections>
-        <Collection Type="Binder" ID="FA6D4545-5315-4D47-ADB9-EB7EAAC4A0CC" Color="0.901961 0.917647 0.933333">
-            <Title>活页夹</Title>
-        </Collection>
-        <Collection Type="RecentSearch" ID="427EE86D-1840-45AA-B2CC-90A3998DDD93" Color="0.901961 0.901961 0.980392">
-            <Title>搜索结果</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
-        </Collection>
-    </Collections>
-    <PrintSettings PaperType="A4" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+    <RecentWritingHistory Date="2018-06-30 15:28:42 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="594.999973,842.0" LeftMargin="0.0" RightMargin="0.0" TopMargin="0.0" BottomMargin="0.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

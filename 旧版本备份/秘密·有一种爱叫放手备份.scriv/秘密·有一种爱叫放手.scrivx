@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Nainggolan" Modified="2017-05-29 19:41:02 +0800" ModID="61675935-8238-456B-B8D5-E95F8B0F5C8F">
+    <Binder>
+        <BinderItem ID="0" UUID="B42C3B40-8458-48A9-9292-3DC22B9C7E74" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-29 19:23:48 +0800" Type="DraftFolder">
+            <Title>2017-05-28~2017-05-29 完稿</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="9E4EFB85-A1C5-477F-956E-0DFC464BDADD" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-29 19:26:00 +0800" Type="Text">
+                    <Title>秘密·有一种爱叫做放手</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>108,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="0030C074-20B7-4DA1-AD59-5D1FD2768D32" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-25 16:39:16 +0800" Type="ResearchFolder">
+            <Title>调查</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="5733F744-44CD-4AD1-82C1-5809D2E34C96" Created="2017-05-25 16:39:16 +0800" Modified="2017-05-25 16:39:16 +0800" Type="TrashFolder">
+            <Title>垃圾桶</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>标签</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">无标题</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">概念</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">章节</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>状态</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">无状态</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">待办事项</Status>
+            <Status ID="2">初稿</Status>
+            <Status ID="3">修订稿</Status>
+            <Status ID="4">最终稿</Status>
+            <Status ID="5">完成</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="20" Date="2017-05-29 18:50:48 +0800"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="4E31F535-468C-4A70-B3A9-FFD3B393545D" Color="0.901961 0.917647 0.933333">
+            <Title>活页夹</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="C1CB6635-E90B-44EA-B4BF-11612CFFA363" Color="0.901961 0.901961 0.980392">
+            <Title>搜索结果</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="A4" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

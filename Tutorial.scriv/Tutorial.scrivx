@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="5B2DB8F1-B1F9-49ED-A2C1-8603D8F6DB09" Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Author="许玥" Modified="2017-12-23 13:51:23 +0800" ModID="9FAD0A67-7397-4857-8EF3-503DC0417F7F">
+<ScrivenerProject Identifier="5B2DB8F1-B1F9-49ED-A2C1-8603D8F6DB09" Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Author="许玥" Modified="2018-06-30 15:28:39 +0800" ModID="640BB124-C1BF-4A2C-ABE7-C21E7A13EFF0">
     <Binder>
         <BinderItem UUID="90C41F5F-1F2B-46F1-B304-61A52BCB3716" Type="Text" Created="2007-01-15 07:04:52 +0800" Modified="2015-09-23 17:45:25 +0800">
             <Title>START HERE</Title>
@@ -695,13 +695,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-01 04:12:08 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-12-23 13:51:08 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-06-30 15:28:34 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2017-12-23 13:51:08 +0800">
+    <RecentWritingHistory Date="2018-06-30 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="594.999973,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

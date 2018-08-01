@@ -3,17 +3,67 @@
 <head>
 <title>白鹿原·咥一碗油泼面</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<!-- NOTE: margin property = top-right-bottom-left -->
 <style type="text/css">
-	body {background-color: #bac0c7}
-    p.binderItem {margin: 10.0px 0.0px 0.0px 05.0px; font-family:Cochin, Times, Courier, Arial, serif; font-size:14.0px;}
-    .page {border: 1px solid #727272; background: #fff}
+
+	body {background-color: #e2e2e2}
+    
+    p.topLevelItemTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Times, Times New Roman, Palatino, Cochin, Serif;
+    	font-size: 30px;
+    	}
+    	
+    p.folderTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Times, Times New Roman, Palatino, Cochin, Serif;
+    	font-size: 18px;
+    	}
+    
+    p.itemTitle {
+    	margin: 30px 0px 5px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	font-weight: bold;
+    	}
+    	
+    p.itemText {
+    	margin: 0px 0px 10px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	}
+    	
+    p.itemTextStart {
+    	margin: 30px 0px 10px 0px;
+    	font-family: Helvetica, Arial, Sans-Serif;
+    	font-size: 12px;
+    	}
+    
+    .page {border: 1px solid #c0c0c0; background: #fff}
+    
     hr {
-      border-top: 1px dashed #000;
-      border-bottom: 0px solid #fff;
-      color: #fff;
-      background-color: #fff;
-      height: 0px;
-  </style>
+        border: none;
+        height: 1px;
+        color: #d4d4d4;
+        background-color: #d4d4d4;
+      	}
+      	
+    hr.afterTitle {
+    	margin-top: -3px;
+    }
+      	
+    hr.afterText {
+    	margin-top: 30px;
+    }
+      	
+    ul {
+      	list-style-type: none;
+      	padding-left: 30px;
+      	}
+      	
+</style>
+
 </head>
 
 <body>
@@ -23,37 +73,39 @@
 <td>
 
 <table class="page" width="100%" cellspacing="10" cellpadding="2">
+
+<!-- Top margin -->
+<!-- Not needed, because of the padding above titles. -->
+<!--<tr><td height="15px"></td></tr>-->
+
 <tr>
+
+<!-- 42 + 30 of list indent = 72 - one inch. -->
+<!-- Actually that ends up too much, so we do 25 + 30 = 55px. -->
+<td width="25px">
+
 <td valign="top">
 
 <ul>
 <li>
-<p class="binderItem"><strong>2017.6.8~2017~6.9 完稿</strong></p>
-</li>
-<hr/>
-<ul>
-<li>
-<p class="binderItem"><strong>白鹿原·咥一碗油泼面</strong><br/><白鹿原>最近热映，第一次听闻<白鹿原>是父亲那本泛黄的陈忠实选集（喜欢那个年代的质朴纯粹始于<蹉跎岁月>），当影片里张嘉译又抄起一筷子黄岑岑的面条垫一口绿油油的油菜叶子，我就嘴底生津，那个为了赶夜车南下成都途径西安南的雨夜记忆就开始扯动神经。<br/>
-今年三月的一天，为了图方便转车而路过西安南站，中途候车的一个多小时时间无处可去，拖着行李箱在雨中漫无目的的走着，不禁一瞥瓢泼大雨中泛着微光的一排‘老*老字号’凸显出更加悲凉的感觉，对于我这个前途未卜之人反倒映衬得恰到好处，饥饿感顿然生起，胃里的酸液已因硬座的不适感翻江倒海，拖着湿漉漉的箱子坐在油腻的座位上漫无目的地点了一碗油泼面--观之纯粹且浓烈，品之粗鲁又Q弹。<br/>
-那次突然有了幸福感，在外许久漂泊的家乡味道，继而满嘴横油，神情错愕…<br/>
-(-｡;)  作为美食攻略扯远了…<br/>
-如同关中人的平实憨厚隐匿般，油泼面是我最爱的关中美食。<br/>
-究其渊源，它是在周代“礼面”的基础上发展演变而来，秦汉时代称之为“汤饼”，属于“煮饼”类中的一种，隋唐时代叫“长命面”，意为下入锅内久煮不断；宋元时代又改称为“水滑面”。据元代韩奕所著《易牙遗意》记载：“水滑面：用十分白面揉...</p>
-</li>
-</ul>
-<hr/>
-<li>
-<p class="binderItem"><strong>调查</strong></p>
-</li>
-<li>
-<p class="binderItem"><strong>垃圾桶</strong></p>
+<p class="topLevelItemTitle">白鹿原·咥一碗油泼面</p>
+<p class="itemText"><白鹿原>最近热映，第一次听闻<白鹿原>是父亲那本泛黄的陈忠实选集（喜欢那个年代的质朴纯粹始于<蹉跎岁月>），当影片里张嘉译又抄起一筷子黄岑岑的面条垫一口绿油油的油菜叶子，我就嘴底生津，那个为了赶夜车南下成都途径西安南的雨夜记忆就开始扯动神经。</p>
+<p class="itemText">今年三月的一天，为了图方便转车而路过西安南站，中途候车的一个多小时时间无处可去，拖着行李箱在雨中漫无目的的走着，不禁一瞥瓢泼大雨中泛着微光的一排‘老*老字号’凸显出更加悲凉的感觉，对于我这个前途未卜之人反倒映衬得恰到好处，饥饿感顿然生起，胃里的酸液已因硬座的不适感翻江倒海，拖着湿漉漉的箱子坐在油腻的座位上漫无目的地点了一碗油泼面--观之纯粹且浓烈，品之粗鲁又Q弹。</p>
+<p class="itemText">那次突然有了幸福感，在外许久漂泊的家乡味道，继而满嘴横油，神情错愕…</p>
+<p class="itemText">(-｡;)  作为美食攻略扯远了…</p>
+<p class="itemText">如同关中人的平实憨厚隐匿般，油泼面是我最爱的关中美食。</p>
+<p class="itemText">究其渊源，它是在周代“礼面”的基础上发展演变而来，秦汉时代称之为“汤饼”，属于“煮饼”类中的一种，隋唐时代叫“长命面”，意为下入锅内久煮不断；宋元时代又改称为“水滑面”。据元代韩奕所著《易牙遗意》记载：“水滑面：用十分白面揉...</p>
 </li>
 </ul>
 
 </td>
-<td width="8">
+<td width="55px">
 </td>
 </tr>
+
+<!-- Bottom margin -->
+<tr><td height="15px"></td></tr>
+
 </table>
 
 </td>

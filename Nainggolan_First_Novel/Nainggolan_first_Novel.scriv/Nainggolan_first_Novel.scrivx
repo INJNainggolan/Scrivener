@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="F8DC9413-539B-4878-A005-4DD69515AABF" Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Author="许玥" Modified="2018-03-07 21:02:46 +0800" ModID="2E5398C8-777B-4FCC-A2AF-5E8F9143C2F4">
+<ScrivenerProject Identifier="F8DC9413-539B-4878-A005-4DD69515AABF" Version="2.0" Creator="SCRMAC-3.0-58" Device="xuyuedeMacBook-Pro" Author="许玥" Modified="2018-06-30 15:33:01 +0800" ModID="6861434E-844C-4433-8123-F61A24336612">
     <Binder>
         <BinderItem UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Type="DraftFolder" Created="2006-11-05 00:27:29 +0800" Modified="2017-04-23 17:54:31 +0800">
             <Title>原稿</Title>
@@ -16,13 +16,13 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="2525B4B6-16FD-404F-940F-4FE90B15CE57" Type="Text" Created="2017-04-20 13:38:51 +0800" Modified="2017-12-26 15:43:24 +0800">
+                <BinderItem UUID="2525B4B6-16FD-404F-940F-4FE90B15CE57" Type="Text" Created="2017-04-20 13:38:51 +0800" Modified="2018-06-30 15:32:55 +0800">
                     <Title>大纲素材</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>396,0</TextSelection>
+                        <TextSelection>433,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="EE73522C-0918-4F11-B259-C7B7B83EC26E" Type="Folder" Created="2017-04-20 13:36:32 +0800" Modified="2017-04-20 13:36:38 +0800">
@@ -586,14 +586,14 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 20:24:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="1" Date="2018-03-07 21:02:04 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-06-30 15:32:15 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-03-07 00:00:00 +0800">
+    <RecentWritingHistory Date="2018-06-30 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="72.000099" BottomMargin="72.000099" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="594.999973,842.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="72.000099" BottomMargin="72.000099" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

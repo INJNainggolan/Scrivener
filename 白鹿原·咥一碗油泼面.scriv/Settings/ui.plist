@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NotesScaleFactor</key>
+	<real>1</real>
 	<key>binderSelection</key>
 	<array>
 		<integer>1</integer>
@@ -13,7 +15,7 @@
 	</array>
 	<key>binderState</key>
 	<array>
-		<integer>0</integer>
+		<string>1217B005-D22C-469A-8F70-ABC9AB482580</string>
 	</array>
 	<key>collectionsHeight</key>
 	<real>101</real>
@@ -34,7 +36,7 @@
 	<real>227</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>3</integer>
+		<string>ED2378EF-361C-4B78-902A-F6ABFAB33E30</string>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -47,9 +49,9 @@
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
-				<key>BinderDocIDs</key>
+				<key>BinderDocUUIDs</key>
 				<array>
-					<integer>3</integer>
+					<string>ED2378EF-361C-4B78-902A-F6ABFAB33E30</string>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -57,9 +59,11 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {693, 471}}</string>
+	<string>{{0, 0}, {620, 464}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{943, 0}</string>
+	<key>mainDocumentEditor.selectedTextRanges</key>
+	<string>943,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -72,7 +76,7 @@
 	<key>mainWindowFrame</key>
 	<string>0 306 900 572 0 0 1440 878 </string>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 304}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentViewIsCurrent</key>

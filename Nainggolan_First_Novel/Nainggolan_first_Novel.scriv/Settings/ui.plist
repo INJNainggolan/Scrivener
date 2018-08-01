@@ -6,6 +6,45 @@
 	<true/>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
+	<key>QRPanelSettings</key>
+	<dict>
+		<key>2525B4B6-16FD-404F-940F-4FE90B15CE57</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>2525B4B6-16FD-404F-940F-4FE90B15CE57</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>ShowsFormatBar</key>
+			<true/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 277}, {475, 167}}</string>
+			</array>
+			<key>TextSettings</key>
+			<dict>
+				<key>hasMultiplePages</key>
+				<false/>
+				<key>isRulerVisible</key>
+				<false/>
+				<key>lineNumberingInterval</key>
+				<integer>1</integer>
+				<key>showsLineNumbers</key>
+				<false/>
+				<key>textScaleFactor</key>
+				<real>1</real>
+				<key>usesFacingPages</key>
+				<false/>
+				<key>usesTypewriterScrolling</key>
+				<false/>
+			</dict>
+			<key>WindowFrame</key>
+			<string>482 279 475 522 0 0 1440 878 </string>
+		</dict>
+	</dict>
 	<key>binderSelection</key>
 	<array>
 		<integer>7</integer>
@@ -34,11 +73,15 @@
 	</dict>
 	<key>collectionsSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {175, 100}}</string>
-		<string>{{0, 101}, {175, 624}}</string>
+		<string>{{0, 0}, {175, 104.5}}</string>
+		<string>{{0, 105.5}, {175, 619.5}}</string>
 	</array>
 	<key>collectionsTabListIsCollapsed</key>
 	<false/>
+	<key>editorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {923, 224}}</string>
+	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
 	<key>fullScreenBackgroundFade</key>
@@ -70,8 +113,14 @@
 	<integer>2</integer>
 	<key>inspectorIsCollapsed</key>
 	<true/>
+	<key>inspectorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {288, 741}}</string>
+	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
+	<key>lastDocumentSplitType</key>
+	<integer>1</integer>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
 		<string>1136C130-D63A-4FF0-889D-39329B38F3B1</string>
@@ -85,7 +134,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>54</integer>
+		<integer>55</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -528,25 +577,49 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2525B4B6-16FD-404F-940F-4FE90B15CE57</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 443.33333333333331}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{96, 0}</string>
-	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>266,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>56 94 1327 773 0 0 1440 878 </string>
+	<string>56 94 1327 773 0 0 1440 900 </string>
+	<key>supportingDocumentEditor.navigationHistory</key>
+	<dict>
+		<key>CurrentIndex</key>
+		<integer>0</integer>
+		<key>NavigationHistoryArray</key>
+		<array>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>2525B4B6-16FD-404F-940F-4FE90B15CE57</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {620, 665}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
+	<key>supportingDocumentEditor.selectedTextRanges</key>
+	<string>433,0</string>
 	<key>supportingDocumentViewIsCurrent</key>
 	<false/>
 </dict>
